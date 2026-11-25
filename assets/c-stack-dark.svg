@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="306" viewBox="0 0 880 306" role="img" aria-label="Stack: Java, JavaScript, Python, C, SQL, Spring Boot, REST APIs, Spring Security, JWT, RBAC, WebSockets, PostgreSQL, MySQL, MongoDB, JPA, Git, Maven, Docker, Postman, Linux, DSA, OOP, DBMS, operating systems and networks">
+<style>
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-4px); } }
+  @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-90px); } }
+  @keyframes glow { 0%,100% { opacity: .85; } 50% { opacity: 1; } }
+  .f { animation: rise .6s cubic-bezier(.2,.7,.2,1) both; }
+  @media (prefers-reduced-motion: no-preference) {
+    .f { animation: rise .6s cubic-bezier(.2,.7,.2,1) both; }
+    .f0 { animation-delay: .05s } .f1 { animation-delay: .15s } .f2 { animation-delay: .25s }
+    .f3 { animation-delay: .35s } .f4 { animation-delay: .45s }
+    .boat { animation: float 6s ease-in-out infinite; }
+    .wave { animation: drift 26s linear infinite; }
+    .sun { animation: glow 8s ease-in-out infinite; }
+  }
+</style>
+<text x="36" y="34" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="10" fill="#E88B52" letter-spacing="2">01</text>
+<text x="62" y="34" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="10" fill="#7C7768" letter-spacing="2.6">STACK</text>
+<g class="f f0">
+<text x="36" y="76" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#7C7768" letter-spacing="1.8">LANGUAGES</text>
+<rect x="152" y="58" width="51" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="165" y="75" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Java</text>
+<rect x="211" y="58" width="88" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="223.64" y="75" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">JavaScript</text>
+<rect x="306" y="58" width="63" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="319.24" y="75" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Python</text>
+<rect x="377" y="58" width="32" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="390.20000000000005" y="75" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">C</text>
+<rect x="417" y="58" width="44" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="430.36" y="75" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">SQL</text>
+</g>
+<line x1="36" y1="95" x2="844" y2="95" stroke="#2A2A22" stroke-opacity="1" stroke-width="1"/>
+<g class="f f1">
+<text x="36" y="124" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#7C7768" letter-spacing="1.8">BACKEND</text>
+<rect x="152" y="106" width="94" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="165" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Spring Boot</text>
+<rect x="254" y="106" width="81" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="266.76" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">REST APIs</text>
+<rect x="343" y="106" width="118" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="356.2" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Spring Security</text>
+<rect x="470" y="106" width="44" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="482.6" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">JWT</text>
+<rect x="522" y="106" width="51" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="535.08" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">RBAC</text>
+<rect x="581" y="106" width="88" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="593.72" y="123" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">WebSockets</text>
+</g>
+<line x1="36" y1="143" x2="844" y2="143" stroke="#2A2A22" stroke-opacity="1" stroke-width="1"/>
+<g class="f f2">
+<text x="36" y="172" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#7C7768" letter-spacing="1.8">DATA</text>
+<rect x="152" y="154" width="88" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="165" y="171" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">PostgreSQL</text>
+<rect x="248" y="154" width="57" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="260.6" y="171" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">MySQL</text>
+<rect x="312" y="154" width="69" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="325.40000000000003" y="171" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">MongoDB</text>
+<rect x="390" y="154" width="44" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="402.52000000000004" y="171" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">JPA</text>
+</g>
+<line x1="36" y1="191" x2="844" y2="191" stroke="#2A2A22" stroke-opacity="1" stroke-width="1"/>
+<g class="f f3">
+<text x="36" y="220" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#7C7768" letter-spacing="1.8">TOOLING</text>
+<rect x="152" y="202" width="44" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="165" y="219" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Git</text>
+<rect x="204" y="202" width="57" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="217.48000000000002" y="219" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Maven</text>
+<rect x="269" y="202" width="63" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="282.28000000000003" y="219" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Docker</text>
+<rect x="340" y="202" width="69" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="353.24" y="219" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Postman</text>
+<rect x="417" y="202" width="57" height="26" rx="13.0" fill="#E88B52" fill-opacity=".55"/>
+<text x="430.36" y="219" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Linux</text>
+</g>
+<line x1="36" y1="239" x2="844" y2="239" stroke="#2A2A22" stroke-opacity="1" stroke-width="1"/>
+<g class="f f4">
+<text x="36" y="268" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="9" fill="#7C7768" letter-spacing="1.8">FOUNDATIONS</text>
+<rect x="152" y="250" width="44" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="165" y="267" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">DSA</text>
+<rect x="204" y="250" width="44" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="217.48000000000002" y="267" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">OOP</text>
+<rect x="257" y="250" width="51" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="269.96000000000004" y="267" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">DBMS</text>
+<rect x="316" y="250" width="38" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="328.6" y="267" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">OS</text>
+<rect x="362" y="250" width="75" height="26" rx="13.0" fill="#69B78D" fill-opacity=".55"/>
+<text x="374.92" y="267" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" fill="#F6F1E6">Networks</text>
+</g>
+</svg>
