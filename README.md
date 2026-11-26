@@ -4,7 +4,7 @@
 
 <a href="https://github.com/HiamRyuthere/Quine_Institute_Backend"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/card1-dark-m.svg"><source media="(max-width: 600px)" srcset="./assets/card1-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/card1-dark.svg"><img src="./assets/card1-light.svg" alt="Quine Institute — college management backend" width="100%"></picture></a>
 
-<a href="https://github.com/HiamRyuthere/EmphernalChat"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/card2-dark-m.svg"><source media="(max-width: 600px)" srcset="./assets/card2-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/card2-dark.svg"><img src="./assets/card2-light.svg" alt="Ephemeral Chat — real time messaging" width="100%"></picture></a>
+<a href="https://github.com/HiamRyuthere/Ephernal-Chat-Backend"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/card2-dark-m.svg"><source media="(max-width: 600px)" srcset="./assets/card2-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/card2-dark.svg"><img src="./assets/card2-light.svg" alt="Ephemeral Chat — real time messaging" width="100%"></picture></a>
 
 <picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/card3-dark-m.svg"><source media="(max-width: 600px)" srcset="./assets/card3-light-m.svg"><source media="(prefers-color-scheme: dark)" srcset="./assets/card3-dark.svg"><img src="./assets/card3-light.svg" alt="E-Commerce Backend — product APIs" width="100%"></picture>
 
